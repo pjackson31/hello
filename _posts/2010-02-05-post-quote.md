@@ -1,5 +1,5 @@
 ---
-title: " Entreprenurar Mind-set: Quote "
+title: " Entrepreneur Mind-set: Quote "
 categories:
   - Blog
 tags:
