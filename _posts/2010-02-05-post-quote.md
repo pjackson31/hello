@@ -1,5 +1,5 @@
 ---
-title: " Entrepreneur Mind-set: Quote "
+title: " Entrepreneur Mind-set "
 categories:
   - Blog
 tags:
@@ -7,7 +7,7 @@ tags:
   - quote
 ---
 
-Roots of the entrepreneur spirit 
+a quote.  
 
 > “A lot of times, people don’t know what they want until you show it to them.”  
   
