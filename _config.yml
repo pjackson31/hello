@@ -54,7 +54,10 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-
+  
+header:
+  image: /assets/images/IMG_0010.jpg
+  
 author:
   name   : "Paul"
   avatar : "assets/images/IMG_8690 2.jpg "
