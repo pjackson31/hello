@@ -16,7 +16,7 @@
 title: Paul Jackson III
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  SAN FRANCISCO BAY AREA B.S. in Computer Science B.A. in Political Science
+  
 twitter_username: paul_jackson_3
 github_username: pjackson31
 minimal_mistakes_skin: default
@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Paul"
   avatar : "assets/images/IMG_8690.jpg "
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "SAN FRANCISCO BAY AREA B.S. in Computer Science B.A. in Political Science"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
