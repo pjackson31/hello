@@ -3,6 +3,9 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+We are in a new era in the 21st Century; a digital era that is going to change the way we work and the way we live. Similar to many times of transition, there will be both positive and negative effects. The world we live in is immensely interconnected and approaching a point of peak globalization, the coming effects of technology will be felt globally.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Current Amherst college student of Computer Science and Political Science, my passion is to understand the intersections of technology, politics, and finance in a world that is becoming increasingly globalized. 
+
+At my core, I am a natural problem solver. This has led to my deep interest in business problems through my experience with Harvard Business School as well as within the Venture Capital space looking to change the way businesses operate and helping entrepreneurs find a competitive edge to disrupt various segments of the B2B software market.
+
