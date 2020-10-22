@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Paul"
   avatar : "assets/images/IMG_8690.jpg "
-  bio    : "SAN FRANCISCO BAY AREA B.S. in Computer Science B.A. in Political Science"
+  bio    : "San Francisco, Bay Area "
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
