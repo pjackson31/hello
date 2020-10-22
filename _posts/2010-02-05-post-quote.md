@@ -7,6 +7,8 @@ tags:
   - quote
 ---
 
+
+
 > “A lot of times, people don’t know what they want until you show it to them.”  
   
 > <cite> Steve Jobs was famous for saying
