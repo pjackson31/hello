@@ -56,7 +56,7 @@ plugins:
   - jekyll-include-cache
   
 header:
-  image: "assets/images/IMG_0010.jpg"
+  image: " /assets/images/IMG_0010.jpg "
   
 author:
   name   : "Paul Jackson III"
@@ -107,6 +107,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      header: true
 
 category_archive:
   type: liquid
