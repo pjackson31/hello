@@ -21,7 +21,7 @@ twitter_username: paul_jackson_3
 github_username: pjackson31
 minimal_mistakes_skin: dark
 search: true
-
+ 
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
