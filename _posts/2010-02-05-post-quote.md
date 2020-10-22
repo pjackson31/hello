@@ -1,5 +1,5 @@
 ---
-title: "Post: Quote"
+title: "Steve Jobs and Henry Ford Once said "
 categories:
   - Blog
 tags:
@@ -7,6 +7,13 @@ tags:
   - quote
 ---
 
-> Only one thing is impossible for God: To find any sense in any copyright law on the planet.
+> “A lot of times, people don’t know what they want until you show it to them.”  
   
-> <cite><a href="http://www.brainyquote.com/quotes/quotes/m/marktwain163473.html">Mark Twain</a></cite>
+> <cite><a Steve Jobs was famous for saying
+
+
+           
+> “If I had asked people what they wanted, they would have said faster horses.”
+  
+> <cite><a Henry Ford, nearly 100 years earlier
+           
