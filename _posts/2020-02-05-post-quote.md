@@ -1,5 +1,5 @@
 ---
-title: "Solutions"
+title: "S O L U T I O N S "
 categories:
   - Blog
 tags:
@@ -7,7 +7,7 @@ tags:
   - quote
 ---
 
-Expertise Provided
+here's some of what i do  
 
 > <cite> Global Finance  
 > “Understanding Finance is key to understanding Geo-Political Events”  
