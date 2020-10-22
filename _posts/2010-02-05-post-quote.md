@@ -1,7 +1,7 @@
 ---
-title: " E N T R E P R E N E U R "
+title: " Entrepreneur Mind-set "
 categories:
-  - Blog
+  - Blog 
 tags:
   - Post Formats
   - quote 
