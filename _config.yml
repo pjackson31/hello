@@ -107,7 +107,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      header: true
+      
 
 #category_archive:
   #type: liquid
