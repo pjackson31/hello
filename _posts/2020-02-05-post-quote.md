@@ -29,7 +29,7 @@ here's some of what i do.
 
 
 
-
+ 
 >  Executive Office
 > <cite> "Running and advancing coprorate strategy is crucial in preserving any firm's distinctive culture"
 
