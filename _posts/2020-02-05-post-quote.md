@@ -9,6 +9,8 @@ tags:
 
 here's some of what i do.  
 
+
+
 > Global Finance  
 > <cite> “How Capital is allocated is key to understanding Geo-Political Events”  
 
@@ -17,6 +19,7 @@ Founding of Greenwood Wealth Management, Harvard Business Online School Credient
 
 
 > Digital Enterprise and Workplace Solutions
+
 > <cite> “Let digital systems and software manage your heavy-lifting” 
 
 Understanding backed by: 
