@@ -11,11 +11,11 @@ tags:
 
 > “A lot of times, people don’t know what they want until you show it to them.”  
   
-> <cite> Steve Jobs was famous for saying
+> Steve Jobs 
 
 
            
 > “If I had asked people what they wanted, they would have said faster horses.”
   
-> <cite> Henry Ford, nearly 100 years earlier
+>  Henry Ford, nearly 100 years earlier
            
