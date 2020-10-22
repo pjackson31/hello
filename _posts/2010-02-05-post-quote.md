@@ -1,5 +1,5 @@
 ---
-title: " Entrepreneur Mind-set "
+title: " E N T R E P R E N E U R "
 categories:
   - Blog
 tags:
