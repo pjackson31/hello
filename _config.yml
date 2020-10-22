@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   
 twitter_username: paul_jackson_3
 github_username: pjackson31
-minimal_mistakes_skin: mint
+minimal_mistakes_skin: dark
 search: true
 
 # Build settings
@@ -27,8 +27,8 @@ markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
-#paginate: 0 # amount of posts to show
-#paginate_path: /page:num/
+paginate: 0 # amount of posts to show
+paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
@@ -56,7 +56,7 @@ plugins:
   - jekyll-include-cache
   
 header:
-  image: /assets/images/IMG_0010.jpg
+  image: "assets/images/IMG_0010.jpg"
   
 author:
   name   : "Paul"
