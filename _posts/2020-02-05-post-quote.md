@@ -7,7 +7,7 @@ tags:
   - quote
 ---
 
-here's some of what i do  
+here's some of what i do.  
 
 > <cite> Global Finance  
 > “Understanding Finance is key to understanding Geo-Political Events”  
