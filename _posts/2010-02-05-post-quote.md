@@ -1,5 +1,5 @@
 ---
-title: "Steve Jobs and Henry Ford Once said "
+title: " Entreprenurar Mind-set: Quote "
 categories:
   - Blog
 tags:
