@@ -2,7 +2,7 @@
 title: "Paul's Projects"
 date: 2020-01-01T15:34:30-04:00
 categories:
-  - Blog
+  - blog
 tags:
   - Jekyll
   - update
