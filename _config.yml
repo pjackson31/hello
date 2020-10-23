@@ -14,13 +14,12 @@
 # You can create any custom variable you would like, and they will be accessible
 
 
-title: "hello."
 email: pjackson22@amherst.edu
 description: >- # this means to ignore newlines until "baseurl:"
-minimal_mistakes_skin: dark 
+  
 twitter_username: paul_jackson_3
 github_username: pjackson31
-
+minimal_mistakes_skin: dark
 search: true
  
 # Build settings
