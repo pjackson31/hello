@@ -19,7 +19,6 @@ Founding of Greenwood Wealth Management, Harvard Business Online School Credient
 
 
 > Digital Enterprise and Workplace Solutions
-
 > <cite> “Let digital systems and software manage your heavy-lifting” 
 
 Understanding backed by: 
