@@ -35,7 +35,7 @@ Software projects within Amherst College, Electronics Club Member, Arduino's Com
 
 
  
->  Executive Office
+>  Executive Office 
 > <cite> "Running and advancing coprorate strategy is crucial in preserving any firm's distinctive culture"
 
 Understanding backed by: 
