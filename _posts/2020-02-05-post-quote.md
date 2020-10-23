@@ -30,7 +30,7 @@ Extensive HR/HCM/Payroll Systems Research Venture Capital Work
 
 > Engineering
 
-> <cite> “Currently a College Student leearning how to code in Ruby, HTML. Knowledgeable in Java, Python, and other various languages. Learning Ad” 
+> <cite> “Currently a College Student leearning how to code in Ruby, HTML. Knowledgeable in Java, Python, and other various languages. ” 
 
 Understanding backed by:  
 Software projects within Amherst College, Electronics Club Member, Arduino's Community Activist
