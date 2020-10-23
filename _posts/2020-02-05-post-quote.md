@@ -16,7 +16,7 @@ here's some of what i do.
 > <cite> “How Capital is managed and allocated is key to understanding Geo-Political Events”  
 
 Understanding backed by: 
-Founding of Greenwood Wealth Management, Harvard Business Online School Credientials, Economics Coursework
+Founding of Greenwood Wealth Management, Harvard Business Online School Credientials, Economics & Globalization Coursework
 
 
 > Digital Enterprise Solutions
