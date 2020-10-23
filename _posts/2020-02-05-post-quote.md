@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "S O L U T I O N S "
 categories:
   - Blog 
