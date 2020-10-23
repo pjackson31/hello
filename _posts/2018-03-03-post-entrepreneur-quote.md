@@ -4,7 +4,7 @@ categories:
   - Blog 
 tags:
   - Post Formats
-  - Values 
+  - quote 
 --- 
 
 a quote.   
