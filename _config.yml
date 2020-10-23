@@ -63,7 +63,7 @@ author:
   avatar : "assets/images/IMG_8690 2.jpg "
   bio    : "San Francisco, Bay Area "
   links:
-    - label: "Website"
+    - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
       url: "https://www.linkedin.com/in/paul-jackson-iii/" 
     - label: "Twitter"
@@ -72,9 +72,7 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/pjackson31"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    
 
 footer:
   links:
