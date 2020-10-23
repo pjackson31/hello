@@ -12,12 +12,12 @@
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
-minimal_mistakes_skin: dark
+
 
 title: "hello."
 email: pjackson22@amherst.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  
+minimal_mistakes_skin: dark 
 twitter_username: paul_jackson_3
 github_username: pjackson31
 
