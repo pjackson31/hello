@@ -44,4 +44,4 @@ Software projects within Amherst College, Electronics Club Member, Arduino's Com
 > <cite> "Running and advancing corporate strategy is crucial in preserving any firm's distinctive culture"
 
 Involvement: 
-Harvard Business Online School Credentials, Founding of Greenwood Wealth Management, and Consulting Workshops/Webinars
+Harvard Business Online School Credentials, Founding of Greenwood Wealth Management, Consulting Workshops/Webinars
