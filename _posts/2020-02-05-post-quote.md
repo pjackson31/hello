@@ -3,7 +3,7 @@ title: "S O L U T I O N S "
 categories:
   - Blog 
 tags:
-  - Post Formats
+  - Post Formats 
   - quote
 ---
 
