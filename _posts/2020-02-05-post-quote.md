@@ -24,7 +24,7 @@ Founding of Greenwood Wealth Management, Harvard Business Online School Credenti
 > <cite> “Let digital systems and software manage your heavy-lifting” 
 
 Involvement: 
-Extensive HR/HCM/Payroll Systems Research Venture Capital Work  
+Extensive HR/HCM/Payroll Systems Market Research at Venture Capital firm 
 
 
 
