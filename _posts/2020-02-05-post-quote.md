@@ -15,15 +15,15 @@ here's some of what i do.
 >
 > <cite> “How Capital is managed and allocated is key to understanding Geo-Political Events”  
 
-Understanding backed by: 
-Founding of Greenwood Wealth Management, Harvard Business Online School Credientials, Economics & Globalization Coursework
+Involvement: 
+Founding of Greenwood Wealth Management, Harvard Business Online School Credentials, Economics & Globalization Coursework
 
 
 > Digital Enterprise Solutions
 >
 > <cite> “Let digital systems and software manage your heavy-lifting” 
 
-Understanding backed by: 
+Involvement: 
 Extensive HR/HCM/Payroll Systems Research Venture Capital Work  
 
 
@@ -32,7 +32,7 @@ Extensive HR/HCM/Payroll Systems Research Venture Capital Work
 >
 > <cite> “Currently a College Student leearning how to code in Ruby, HTML. Knowledgeable in Java, Python, and other various languages. ” 
 
-Understanding backed by:  
+Involvement:  
 Software projects within Amherst College, Electronics Club Member, Arduino's Community Activist
 
 
@@ -42,5 +42,5 @@ Software projects within Amherst College, Electronics Club Member, Arduino's Com
 >
 > <cite> "Running and advancing coprorate strategy is crucial in preserving any firm's distinctive culture"
 
-Understanding backed by: 
+Involvement: 
 Harvard Business Online School Credientials and Founding of Greenwood Wealth Management 
