@@ -12,13 +12,13 @@ here's some of what i do.
 
 
 > Global Finance  
-> <cite> “How Capital is allocated is key to understanding Geo-Political Events”  
+> <cite> “How Capital is managed and allocated is key to understanding Geo-Political Events”  
 
 Understanding backed by: 
 Founding of Greenwood Wealth Management, Harvard Business Online School Credientials, Economics Coursework
 
 
-> Digital Enterprise and Workplace Solutions
+> Digital Enterprise Solutions
 > <cite> “Let digital systems and software manage your heavy-lifting” 
 
 Understanding backed by: 
