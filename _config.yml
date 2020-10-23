@@ -64,7 +64,7 @@ author:
   bio    : "San Francisco, Bay Area "
   links:
     - label: "LinkedIn"
-      icon: "fad fa-fw fa-linkedin"
+      icon: "fad fa-fw fa-linkedin-square"
       url: "https://www.linkedin.com/in/paul-jackson-iii/" 
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
