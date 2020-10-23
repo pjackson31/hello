@@ -7,7 +7,7 @@ tags:
   - quote
 ---
 
-here's some of what i do.  
+Some of what I do.  
 
 
 
@@ -30,7 +30,7 @@ Extensive HR/HCM/Payroll Systems Research Venture Capital Work
 
 > Engineering
 >
-> <cite> “Currently a College Student leearning how to code in Ruby, HTML. Knowledgeable in Java, Python, and other various languages. ” 
+> <cite> “Currently a College Student learning how to code in Ruby, HTML. Knowledgeable in Java, Python, and other various languages. ” 
 
 Involvement:  
 Software projects within Amherst College, Electronics Club Member, Arduino's Community Activist
@@ -40,7 +40,7 @@ Software projects within Amherst College, Electronics Club Member, Arduino's Com
  
 >  Executive Office 
 >
-> <cite> "Running and advancing coprorate strategy is crucial in preserving any firm's distinctive culture"
+> <cite> "Running and advancing corporate strategy is crucial in preserving any firm's distinctive culture"
 
 Involvement: 
-Harvard Business Online School Credientials and Founding of Greenwood Wealth Management 
+Harvard Business Online School Credentials and Founding of Greenwood Wealth Management 
