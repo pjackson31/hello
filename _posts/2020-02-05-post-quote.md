@@ -14,7 +14,7 @@ Some of what I do.
 
 > Global Finance
 >
-> <cite> “How Capital is managed and allocated is key to understanding Geo-Political Events”  
+> <cite> “How capital is managed and allocated is key to understanding geo-political events”  
 
 Involvement: 
 Founding of Greenwood Wealth Management, Harvard Business Online School Credentials, Economics & Globalization Coursework
@@ -31,7 +31,7 @@ Extensive b2b HR software ecosystem research at Venture Capital firm
 
 > Engineering
 >
-> <cite> “Currently a College Student learning how to code in Ruby, HTML. Knowledgeable in Java, Python, and other various languages. ” 
+> <cite> “Currently a college student learning how to code in Ruby, HTML. Knowledgeable in Java, Python, and other various languages. ” 
 
 Involvement:  
 Software projects within Amherst College, Electronics Club Member, Arduino's Community Activist
