@@ -10,8 +10,6 @@ tags:
 
 Employment  
 
-
-
 > Global Finance
 >
 > <cite> “How capital is managed and allocated is key to understanding geo-political events”  
