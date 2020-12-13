@@ -8,7 +8,7 @@ tags:
   - quote 
 --- 
 
-A quote.   
+Quote   
 
 > “A lot of times, people don’t know what they want until you show it to them.”  
 >
