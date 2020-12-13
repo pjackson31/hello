@@ -8,7 +8,7 @@ tags:
   - quote
 ---
 
-Some of what I do.  
+Employment  
 
 
 
@@ -45,3 +45,5 @@ Software projects within Amherst College, Electronics Club Member, Arduino's Com
 
 Involvement: 
 Harvard Business Online School Credentials, Founding of Greenwood Wealth Management, Consulting Workshops/Webinars
+
+
