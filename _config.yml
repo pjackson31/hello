@@ -63,6 +63,9 @@ author:
   avatar : "assets/images/IMG_8690 2.jpg "
   bio    : "San Francisco, Bay Area "
   links:
+    - label: "Contact"
+      icon: "fab fa-fw fa-hand-peace-o"
+      url: "https://pauljacksoniii.com/contact/" 
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/paul-jackson-iii/" 
