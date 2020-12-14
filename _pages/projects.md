@@ -5,17 +5,17 @@ title: "Projects"
 
 ---
 
-### Programming 
+## Programming 
 
-## AlphaGreen
+### AlphaGreen
 
-## NBA GM
+### NBA GM
 
-## Cup Pong
+### Cup Pong
 
-## Backtesting
+### Backtesting
 
-### Research
+## Research
 
-## Technology and Globalization: How Will the 4th Industrial Revolution Change Our Lives?
+### Technology and Globalization: How Will the 4th Industrial Revolution Change Our Lives?
 
