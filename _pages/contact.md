@@ -18,10 +18,8 @@ author_profile: false
   <div class="form-group">
         <label for="InputMessage">Message</label>
         <input type="text" name="Message" class="form-control" id="InputMessage" placeholder="Let's Chat " required="required">
-      </div>
   </div>
       <hr>
       <button type="submit" class="btn btn-primary">Submit</button>
-    </form>
 </form>
      
