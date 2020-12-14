@@ -7,13 +7,6 @@ tags:
   - Post Formats 
   - projects
 ---
-
- 
-
-
-
-> Alpha Green
->
 > Q-Learning Agent in Financial Environment
 
 Question: Will we see a Financial Singularity in the near future? This project juggles the possibility of creating an artificial intelligent agent that can perform trades within the NYSE stock market at a level consistantly above the average trader. 
