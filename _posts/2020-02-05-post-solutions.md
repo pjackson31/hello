@@ -8,9 +8,8 @@ tags:
   - quote
 ---
 
-> Employment  
->
-> Work Experience
+> Employment and Interests
+
 
 > Global Finance
 >
