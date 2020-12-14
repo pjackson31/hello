@@ -7,12 +7,12 @@ title: "Projects"
 
 ### Programming 
 
-##AlphaGreen
+## AlphaGreen
 
-##NBA GM
+## NBA GM
 
-##Cup Pong
+## Cup Pong
 
 ### Research
 
-#Technology and Globalization: How Will the 4th Industrial Revolution Change Our Lives?
+## Technology and Globalization: How Will the 4th Industrial Revolution Change Our Lives?
