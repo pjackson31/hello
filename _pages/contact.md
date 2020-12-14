@@ -1,5 +1,5 @@
 ---
-layout: single
+
 permalink: /contact/
 title: "Let's Chat" 
 header:
@@ -8,13 +8,6 @@ header:
   actions:
     - label: "Learn more"
       url: "https://unsplash.com"
-categories:
-  - Layout
-  - Uncategorized
-tags:
-  - edge case
-  - image
-  - layout
 
 ---
 
