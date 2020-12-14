@@ -8,7 +8,7 @@ tags:
   - quote
 ---
 
-> Employment and Interests
+> Employment Interests
 
 
 > Global Finance
