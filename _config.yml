@@ -64,7 +64,7 @@ author:
   bio    : "San Francisco, Bay Area "
   links:
     - label: "Contact"
-      icon: "fab fa-fw fa-user-o"
+      icon: "fab fa-fw fa-envelope-square"
       url: "https://pauljacksoniii.com/contact/" 
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
