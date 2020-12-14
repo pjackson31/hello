@@ -13,6 +13,9 @@ title: "Projects"
 
 ## Cup Pong
 
+## Backtesting
+
 ### Research
 
 ## Technology and Globalization: How Will the 4th Industrial Revolution Change Our Lives?
+
