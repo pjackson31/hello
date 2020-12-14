@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 gem "minimal-mistakes-jekyll", group: :jekyll_plugins
-
+gem 'jekyll-autolink_email'
 gem "tzinfo-data"
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 gem "jekyll", "~> 3.7"
