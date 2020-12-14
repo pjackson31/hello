@@ -16,7 +16,7 @@ tags:
 > <cite> “How capital is managed and allocated is key to understanding geo-political events”  
 
 Involvement: 
-Founding of Greenwood Wealth Management, Harvard Business Online School Credentials, Economics & Globalization Coursework
+Founding of Greenwood Wealth Management, Harvard Business Online School, economics & globalization Coursework
 
 
 > Digital Enterprise Solutions
@@ -33,7 +33,7 @@ PeakSpan Capital
 > <cite> “Currently a college student learning how to code in Ruby, HTML. Knowledgeable in Java, Python, and other various languages. ” 
 
 Involvement:  
-Programming projects within Amherst College and AC electronics member
+Programming projects within Amherst College, AC electronics member
 
 
 
@@ -43,6 +43,6 @@ Programming projects within Amherst College and AC electronics member
 > <cite> "Running and advancing corporate strategy is crucial in preserving any firm's distinctive culture"
 
 Involvement: 
-Harvard Business Online School Credentials, Founding of Greenwood Wealth Management, consulting workshops/webinars
+Harvard Business Online School, founding of Greenwood Wealth Management, consulting workshops/webinars
 
 
