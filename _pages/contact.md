@@ -4,7 +4,7 @@ permalink: /contact/
 title: "Let's Chat"
 author_profile: false
 header:
-  image: /assets/images/IMG_0037 2.JPG
+  image: /assets/images/IMG_0037 3.JPG
   caption: "Photo credit: Paul Jackson " 
   actions:
     - label: "Learn more"
