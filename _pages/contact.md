@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /Contact/
+permalink: /contact/
 title: "Let's Chat"
 ---
 
