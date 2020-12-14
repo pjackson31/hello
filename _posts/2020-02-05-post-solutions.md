@@ -24,7 +24,7 @@ Founding of Greenwood Wealth Management, Harvard Business Online School Credenti
 > <cite> “Let digital systems and software manage your heavy-lifting” 
 
 Involvement: 
-Extensive b2b HR software ecosystem research at Venture Capital firm 
+PeakSpan Capital 
 
 
 
@@ -33,7 +33,7 @@ Extensive b2b HR software ecosystem research at Venture Capital firm
 > <cite> “Currently a college student learning how to code in Ruby, HTML. Knowledgeable in Java, Python, and other various languages. ” 
 
 Involvement:  
-Software projects within Amherst College, Electronics Club Member, Arduino's Community Activist
+Programming projects within Amherst College and AC electronics member
 
 
 
@@ -43,6 +43,6 @@ Software projects within Amherst College, Electronics Club Member, Arduino's Com
 > <cite> "Running and advancing corporate strategy is crucial in preserving any firm's distinctive culture"
 
 Involvement: 
-Harvard Business Online School Credentials, Founding of Greenwood Wealth Management, Consulting Workshops/Webinars
+Harvard Business Online School Credentials, Founding of Greenwood Wealth Management, consulting workshops/webinars
 
 
