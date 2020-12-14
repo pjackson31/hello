@@ -1,6 +1,6 @@
 ---
 layout: single
 permalink: /contact/
-title: "Let's Chat"
+title: "Let's Chat" 
 ---
 
