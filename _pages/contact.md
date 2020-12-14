@@ -1,7 +1,7 @@
 ---
 
 permalink: /contact/
-title: "Let's Chat"
+title: "Contacting Paul"
 author_profile: false
 
 ---
