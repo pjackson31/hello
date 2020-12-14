@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "A L P H A - G R E E E N "
+title: "A L P H A - G R E E N "
 categories:
   - Blog 
 tags:
