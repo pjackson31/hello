@@ -8,7 +8,7 @@ tags:
   - quote
 ---
 
-## Projects and Essays   
+## Research  
 
 > Data, hardwear and process automation can transfrom businesses and help them run more efficiently no matter the size.  
 
@@ -19,8 +19,7 @@ Within the Amherst College Political Science Department I took a class centered 
 As a result of this coursework, I looked to PeakSpan Capital, where I could be on the ground sourcing cutting edge business technologies and learn how idea transforms into execution.
 
 ### PeakSpan Capital
-
-“Data, hardwear and process automation can transfrom businesses and help them run more efficiently no matter the size.”  
+ 
 
 At Peakspan, a Silicon Valley based Venture Capital Firm, I was able to map out and analyze numerous segments of the business to business software ecosystem. Over the course of internship, I led a variety of projects from daily updates to PeakSpan's algorithmic search engine to portfolio operation projects. 
 After completing the internship I provided 200 investment prospects, HCM market map, and theme research analysis around Covid-19.
