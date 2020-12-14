@@ -17,7 +17,7 @@ author_profile: false
       </div>
   <div class="form-group">
         <label for="InputMessage">Name</label>
-        <input type="text" name="name" class="form-control" id="InputMessage" placeholder="Let's Chat " required="required">
+        <input type="text" name="Message" class="form-control" id="InputMessage" placeholder="Let's Chat " required="required">
       </div>
 </form>
      
