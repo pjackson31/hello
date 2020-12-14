@@ -54,6 +54,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-autolink_email
   
 header:
   image: " /assets/images/IMG_0010.jpg "
