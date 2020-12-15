@@ -8,14 +8,21 @@ title: "Projects"
 ## Programming 
 
 ### AlphaGreen
+Q-Learning Agent in Financial Environment
 
 ### NBA GM
+Simulation of player markets, evaluations, and financing of a NBA Team
 
 ### Cup Pong
+Slider-bar java cup pong game
 
 ### Backtesting
+A basic trend investment strategy using real historical time series data for the S&P 500
+
+### Property Value in California
+R-based model looking at the correlation between CA home prices and various predictors
 
 ## Research
 
 ### Technology and Globalization: How Will the 4th Industrial Revolution Change Our Lives?
-
+Cloud and mobile computing, sensors and intelligent manufacturing, advanced robotics and drones, and clean-energy technologies
