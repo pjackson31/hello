@@ -10,7 +10,7 @@ tags:
 
 ## Research  
 
-> Data, hardwear and process automation can transfrom businesses and help them run more efficiently no matter the size.  
+> Data, hardware and process automation can transfrom businesses and help them run more efficiently no matter the size.  
 
 ### POSC:145 Work 
 _Amherst College Political Science Department_
