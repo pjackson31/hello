@@ -19,7 +19,7 @@ Slider-bar java cup pong game
 ### Backtesting
 A basic trend investment strategy using real historical time series data for the S&P 500
 
-### Property Value in California
+### PROP-VAL
 R-based model looking at the correlation between CA home prices and various predictors
 
 ## Research
