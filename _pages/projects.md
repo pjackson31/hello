@@ -26,3 +26,4 @@ R-based model looking at the correlation between CA home prices and various pred
 
 ### Technology and Globalization: How Will the 4th Industrial Revolution Change Our Lives?
 Cloud and mobile computing, sensors and intelligent manufacturing, advanced robotics and drones, and clean-energy technologies
+
