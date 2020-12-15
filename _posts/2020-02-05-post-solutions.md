@@ -29,8 +29,8 @@ PeakSpan Capital
 Programming projects within Amherst College, AC electronics member
 
 ## Executive Office 
-> "Running and advancing corporate strategy is crucial in preserving any firm's distinctive culture"
+> "Understanding and advancing corporate strategy is vital in any firm's growth"
 
-Harvard Business Online School, Founding of Greenwood Wealth Management, consulting workshops/webinars
+Harvard Business Online School, Founding of Greenwood Wealth Management, AC Consulting workshops/webinars
 
 
