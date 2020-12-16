@@ -26,7 +26,7 @@ A basic trend investment strategy using real historical time series data for the
 
 ### PROP-VAL
 > R
-R-based model looking at the correlation between CA home prices and various predictors
+An R-based model looking at the correlation between CA home prices and various predictors
 
 ## Research
 
