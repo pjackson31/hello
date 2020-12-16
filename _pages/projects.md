@@ -25,7 +25,8 @@ Slider-bar java cup pong game
 A basic trend investment strategy using real historical time series data for the S&P 500
 
 ### PROP-VAL
-> R
+> R 
+
 An R-based model looking at the correlation between CA home prices and various predictors
 
 ## Research
