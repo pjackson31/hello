@@ -9,28 +9,32 @@ title: "Projects"
 
 ### AlphaGreen
 > Python, Numpy, Pandas, TensorFlow and Keras
-
-Q-Learning Agent in Financial Environment
+<p>Q-Learning Agent in Financial Environment
+<br>
 
 ### NBA GM
 > Java
-Simulation of player markets, evaluations, and financing of a NBA Team
+<p>Simulation of player markets, evaluations, and financing of a NBA Team
+  <br>
 
 ### Cup Pong
 > Java
-Slider-bar java cup pong game
+<p>Slider-bar java cup pong game
+   <br>
 
 ### Backtesting
 > Python
-A basic trend investment strategy using real historical time series data for the S&P 500
+<p>A basic trend investment strategy using real historical time series data for the S&P 500
+  <br>
 
 ### PROP-VAL
 > R 
-
-An R-based model looking at the correlation between CA home prices and various predictors
+<p>An R-based model looking at the correlation between CA home prices and various predictors
+  <br>
 
 ## Research
 
 ### Technology and Globalization: How Will the 4th Industrial Revolution Change Our Lives?
-Cloud and mobile computing, sensors and intelligent manufacturing, advanced robotics and drones, and clean-energy technologies
+<p>Cloud and mobile computing, sensors and intelligent manufacturing, advanced robotics and drones, and clean-energy technologies
+  <br>
 
