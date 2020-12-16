@@ -9,25 +9,30 @@ title: "Projects"
 
 > ### AlphaGreen
 > - Python, Numpy, Pandas, TensorFlow and Keras
+>
 > Q-Learning Agent in Financial Environment
   
 > ### NBA GM
 > - Java
+>
 > Simulation of player markets, evaluations, and financing of a NBA Team
   
 
 > ### Cup Pong
 > - Java
+>
 > Slider-bar java cup pong game
    
 
 > ### Backtesting
 > - Python
+>
 > A basic trend investment strategy using real historical time series data for the S&P 500
   <br>
 
 > ### PROP-VAL
 > - R 
+>
 > An R-based model looking at the correlation between CA home prices and various predictors
   <br>
 
