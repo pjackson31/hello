@@ -6,6 +6,10 @@ title: "Projects"
 ---
 
 ## Programming 
+> ### Janus
+> - Python
+>
+> Virtual Assistant Bot
 
 > ### AlphaGreen
 > - Python, Numpy, Pandas, TensorFlow and Keras
