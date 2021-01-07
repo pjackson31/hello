@@ -10,4 +10,4 @@ Current Amherst college student of Computer Science and Political Science, my pa
 
 At my core, I am a natural problem solver and enjoying help creatively set problems. This passion for solving problems has to lead to experience within Harvard Business School, a Silicon Valley VC, and a Wealth Management Firm.  
 
-As of 2021, I am looking to master my craft and help build innovative software products for a summer internship. 
+As of 2021, I am looking to master my craft and help build innovative software products during a summer internship. 
