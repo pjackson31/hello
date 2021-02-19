@@ -26,3 +26,6 @@ After completing the internship I provided 200 investment prospects, HCM market 
 
 
 ![Man vs Machine](/assets/images/chart-e1499090948388.jpg)
+Figure 1: "Man vs Machine" Projections for various professions for when machines will match human performance. Image Sources: K. Grace et al., _When Will AI Exceed Human Performance? Evidence from AI Experts_ arXiv(2017):https://arxiv.org/abs/1705.08807: The World in 2017,Economist
+
+
