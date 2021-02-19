@@ -24,8 +24,9 @@ As a result of this coursework, I looked to PeakSpan Capital, where I could be o
 At Peakspan, a Silicon Valley based Venture Capital Firm, I was able to map out and analyze numerous segments of the business to business software ecosystem. Over the course of internship, I led a variety of projects from daily updates to PeakSpan's algorithmic search engine to portfolio operation projects. 
 After completing the internship I provided 200 investment prospects, HCM market map, and theme research analysis around Covid-19.
 
+## "Man vs Machine"
 
 ![Man vs Machine](/assets/images/chart-e1499090948388.jpg)
-Figure 1: "Man vs Machine" Projections for various professions for when machines will match human performance. Image Sources: K. Grace et al., _When Will AI Exceed Human Performance? Evidence from AI Experts_ arXiv(2017):https://arxiv.org/abs/1705.08807: The World in 2017,Economist
+Figure 1: Projections for various professions for when machines will match human performance. Image Sources: K. Grace et al., _When Will AI Exceed Human Performance? Evidence from AI Experts_ arXiv(2017):https://arxiv.org/abs/1705.08807: The World in 2017,Economist
 
 
