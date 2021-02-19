@@ -24,3 +24,4 @@ As a result of this coursework, I looked to PeakSpan Capital, where I could be o
 At Peakspan, a Silicon Valley based Venture Capital Firm, I was able to map out and analyze numerous segments of the business to business software ecosystem. Over the course of internship, I led a variety of projects from daily updates to PeakSpan's algorithmic search engine to portfolio operation projects. 
 After completing the internship I provided 200 investment prospects, HCM market map, and theme research analysis around Covid-19.
 
+![image tooltip here](/assets/chart-e1499090948388.jpg)
