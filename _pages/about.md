@@ -3,9 +3,11 @@ layout: single
 permalink: /about/
 title: "About"
 ---
+“There is only one thing that makes a dream impossible to achieve: the fear of failure.” 
+― Paulo Coelho, The Alchemist
 
-Current Amherst college student of Computer Science and Political Science, my passion inside the classroom has been to understand the intersections of technology and politics.
+Current Amherst college student of Computer Science and Political Science, my passion inside the classroom has been to explore the technology of 4th Industrial Revolution and the implications of specific hardwear and software within world politics.
 
-At my core, I am a natural problem solver and enjoying help creatively set problems. This passion for solving problems has to lead to experience within Harvard Business School, a Silicon Valley VC, and a Wealth Management Firm.  
+At my core, I am a natural problem solver, curious learner, and enjoying help creatively set problems. This passion for solving problems has to lead to experience within Harvard Business School, a Silicon Valley VC, and a Wealth Management Firm.  
 
 As of 2021, I will be joining Apple's Technology Investigation Team as an Engineering Undergraduate Intern. 
