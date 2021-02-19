@@ -3,8 +3,10 @@ layout: single
 permalink: /about/
 title: "About"
 ---
-“There is only one thing that makes a dream impossible to achieve: the fear of failure.” 
-― Paulo Coelho, The Alchemist
+
+> “There is only one thing that makes a dream impossible to achieve: the fear of failure.” 
+>
+> <cite> Paulo Coelho, The Alchemist
 
 Current Amherst college student of Computer Science and Political Science, my passion inside the classroom has been to explore the technology of 4th Industrial Revolution and the implications of specific hardwear and software within world politics.
 
