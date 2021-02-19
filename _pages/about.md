@@ -3,7 +3,7 @@ layout: single
 permalink: /about/
 title: "About"
 ---
-## About
+## Nice to meet you! 
 
 > “There is only one thing that makes a dream impossible to achieve: the fear of failure.” 
 >
