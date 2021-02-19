@@ -25,4 +25,4 @@ At Peakspan, a Silicon Valley based Venture Capital Firm, I was able to map out 
 After completing the internship I provided 200 investment prospects, HCM market map, and theme research analysis around Covid-19.
 
 
-{{https://pauljacksoniii.com}}![image-title-here](/assets/chart-e1499090948388.jpg)
+![Man vs Machine](/assets/chart-e1499090948388.jpg)
