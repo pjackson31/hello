@@ -8,7 +8,7 @@ title: "About"
 >
 > <cite> Paulo Coelho, The Alchemist
 
-Current Amherst college student of Computer Science and Political Science, my passion inside the classroom has been to explore the technology of 4th Industrial Revolution and the implications of specific hardwear and software within world politics.
+Current Amherst college student of Computer Science and Political Science, my studies have revolved around implications of hardwear and software within world politics and the 4th Industrial Revolution as a whole.
 
 At my core, I am a natural problem solver, curious learner, and enjoying help creatively set problems. This passion for solving problems has to lead to experience within Harvard Business School, a Silicon Valley VC, and a Wealth Management Firm.  
 
