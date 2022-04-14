@@ -15,3 +15,4 @@ At my core, I am a natural problem solver, curious learner, and enjoying help cr
 
 As of 2021, I'm working @Apple as a Engineering Project Manager. 
  
+ 
